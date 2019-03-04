@@ -21,5 +21,8 @@ ls -l список с подробной инф
 ls -la все файлы + скрытые файлы
  ~ - домашняя папка
  что бы скормить файл pug to compile to html - pug имя файла
+ device:git mishamisha$ atom ./sitik - открыть атом
  
+cd ../git/sitik
+device:sitik mishamisha$ node server.js - запустить сервер
 

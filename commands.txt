@@ -1,0 +1,23 @@
+cd - cuurent directory  - переходить по древу дирректории
+cd .. - переход на 1 папку выше
+.. - предыдущ папка 
+. - текущая папка
+./file.txt - файл в текущ папке
+../../ -  2 folder up
+/ - root dorectory (cd /)
+cd - home directoru
+pwd - present working directoey - full path from root
+git - система контроля версий
+git clone - копирует репозиторий с гитхаба в папку на компе
+git commit - внести изменения в repository, между коммитами можно переключаться
+git push - внести коммиты в репозиторий в облаке 
+repository - папка с кодом
+node - среда исполнения java script (программа которая получает js код и исполняет его)
+npm - пакетный менеджер для node, устанавливает модули плагины фреймворки и тд
+nano - txt editor
+touch - create new file 
+ls - list
+ls -l список с подробной инф
+ls -la все файлы + скрытые файлы
+ 
+

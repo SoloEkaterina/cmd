@@ -27,3 +27,4 @@ ls -la все файлы + скрытые файлы
 cd ../git/sitik
 device:sitik mishamisha$ node server.js - запустить сервер
 
+node.mone

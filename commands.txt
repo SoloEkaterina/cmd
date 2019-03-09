@@ -27,4 +27,16 @@ ls -la все файлы + скрытые файлы
 cd ../git/sitik
 device:sitik mishamisha$ node server.js - запустить сервер
 
+device:git mishamisha$ curl https://www.awwwards.com/websites/portfolio/ - get на сайт и все что получает показывает в терминале
+history - cmd history
+
+три потока 
+stdin- standart in 
+stdout-
+stderr-
+pipe - труба - out одной программы в in другой программы 
+device:~ mishamisha$ ls | grep sktop - поиск по списку с помощью трубы
+Desktop
+
+
 node.mone

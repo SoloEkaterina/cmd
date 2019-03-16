@@ -27,8 +27,11 @@ ls -la все файлы + скрытые файлы
 cd ../git/sitik
 device:sitik mishamisha$ node server.js - запустить сервер
 
+скопировать сайт
 device:git mishamisha$ curl https://www.awwwards.com/websites/portfolio/ - get на сайт и все что получает показывает в терминале
+wget https://www.awwwards.com/websites/portfolio/ - скачтвает и создает по ссылке
 history - cmd history
+mkdir blogref - создасть папку
 
 три потока 
 stdin- standart in 

@@ -54,3 +54,5 @@ node.mone
 npm info nodejs-package - проверить наличие пакета
 
 js browser - html страница с подключенным файлом js - console в исходном коде
+$ node
+> console.log()

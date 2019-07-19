@@ -9,6 +9,8 @@ cd .. - переход на 1 папку выше
 cd - home directoru
 pwd - present working directoey - full path from root
 
+https://monsterlessons.com/project/lessons/zachem-nuzhen-packagejson
+
 git - система контроля версий
 git clone - копирует репозиторий с гитхаба в папку на компе
 git commit - внести изменения в repository, между коммитами можно переключаться
@@ -26,6 +28,7 @@ ls -la все файлы + скрытые файлы
  ~ - домашняя папка
  что бы скормить файл pug to compile to html - pug имя файла
  device:git mishamisha$ atom ./sitik - открыть атом
+
  
 cd ../git/sitik
 device:sitik mishamisha$ node server.js - запустить сервер

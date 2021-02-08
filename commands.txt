@@ -9,6 +9,10 @@ cd .. - переход на 1 папку выше
 cd - home directoru
 pwd - present working directoey - full path from root
 
+на другой диск
+PS C:\Users\Ktkt> cd D:
+PS D:\> dir
+
 https://monsterlessons.com/project/lessons/zachem-nuzhen-packagejson
 
 git - система контроля версий
